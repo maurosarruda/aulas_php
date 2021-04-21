@@ -1,5 +1,3 @@
-
-
 <h1> Estruturas Condicionais </h1>
 <?php
 $idade = 16;
